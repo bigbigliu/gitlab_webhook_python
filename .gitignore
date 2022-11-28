@@ -1,0 +1,10 @@
+.idea
+
+*.tmp
+*.log
+
+lastupdate.tmp
+.vscode
+.glide/
+
+*/__pycache__
