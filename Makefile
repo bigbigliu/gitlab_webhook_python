@@ -13,4 +13,4 @@ docker-build:
 	docker build -t gitlab_webhook:v1 .
 
 docker-run:
-	docker run -d -p 8085:8085 --restart=always -e TZ=Asia/Shanghai --name=gitlab_webhook gitlab_webhook:v1
+	docker run -d --restart=unless-stopped -p 9091:9091 --name=gitlab_webhook gitlab_webhook:v1

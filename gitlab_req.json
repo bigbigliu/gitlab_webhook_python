@@ -1,0 +1,62 @@
+{
+  "object_kind": "push",
+  "event_name": "push",
+  "before": "1ec69cd4097ff50f14b35b78e14bfbf1d1a2b65b",
+  "after": "0418c17e703046bb5e2440ec0746f347e2da5c4c",
+  "ref": "refs/heads/master",
+  "checkout_sha": "0418c17e703046bb5e2440ec0746f347e2da5c4c",
+  "message": "None",
+  "user_id": 1,
+  "user_name": "管理员",
+  "user_username": "root",
+  "user_email": "",
+  "user_avatar": "https://www.gravatar.com/avatar/e64c7d89f26bd1972efa854d13d7dd61?s\u003d80\u0026d\u003didenticon",
+  "project_id": 124,
+  "project": {
+    "id": 124,
+    "name": "robot_dispatch",
+    "description": "测试代码",
+    "web_url": "http://gitlab.example.com/robot_group/moss_robot/robot_dispatch_v5.2",
+    "avatar_url": "None",
+    "git_ssh_url": "git@gitlab.example.com:robot_group/moss_robot/robot_dispatch_v5.2.git",
+    "git_http_url": "http://gitlab.example.com/robot_group/moss_robot/robot_dispatch_v5.2.git",
+    "namespace": "moss_robot",
+    "visibility_level": 0,
+    "path_with_namespace": "robot_group/moss_robot/robot_dispatch_v5.2",
+    "default_branch": "master",
+    "ci_config_path": "None",
+    "homepage": "http://gitlab.example.com/robot_group/moss_robot/robot_dispatch_v5.2",
+    "url": "git@gitlab.example.com:robot_group/moss_robot/robot_dispatch_v5.2.git",
+    "ssh_url": "git@gitlab.example.com:robot_group/moss_robot/robot_dispatch_v5.2.git",
+    "http_url": "http://gitlab.example.com/robot_group/moss_robot/robot_dispatch_v5.2.git"
+  },
+  "commits": [
+    {
+      "id": "1ec69cd4097ff50f14b35b78e14bfbf1d1a2b65b",
+      "message": "“功能测试”\n",
+      "timestamp": "2022-04-06T11:58:39Z",
+      "url": "http://gitlab.example.com/robot_group/moss_robot/robot_dispatch_v5.2/commit/1ec69cd4097ff50f14b35b78e14bfbf1d1a2b65b",
+      "author": {
+        "name": "bigbigliu",
+        "email": "bigbigliu@example.com"
+      },
+      "added": [],
+      "modified": [
+        "dispatch_v5.2.2/configs/__init__.py",
+        "dispatch_v5.2.2/light_al.py"
+      ],
+      "removed": []
+    }
+  ],
+  "total_commits_count": 3,
+  "push_options": [],
+  "repository": {
+    "name": "robot_dispatch",
+    "url": "git@gitlab.example.com:robot_group/moss_robot/robot_dispatch_v5.2.git",
+    "description": "V5测试代码",
+    "homepage": "http://gitlab.example.com/robot_group/moss_robot/robot_dispatch_v5.2",
+    "git_http_url": "http://gitlab.example.com/robot_group/moss_robot/robot_dispatch_v5.2.git",
+    "git_ssh_url": "git@gitlab.example.com:robot_group/moss_robot/robot_dispatch_v5.2.git",
+    "visibility_level": 0
+  }
+}
